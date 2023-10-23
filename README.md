@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunaxlam
 - 👀 I’m interested in sustainability, accessibility, ed tech, STEM education access, and diversity and equity in tech.
-- 🌱 I’m currently learning Python, Java, JavaScript, HTML, CSS, SQL, and React!
+- 🌱 I’m currently a junior full-stack SDE focusing on Python, Java, JavaScript, React, and Spring Boot.
 - 💞️ I’m looking to collaborate on projects that aim to make the world a safer, kinder, and more inclusive place. 
 - 📫 You can reach me at linkedin.com/in/lunalam. I'd love to connect and chat!
 
